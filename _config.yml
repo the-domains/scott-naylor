@@ -1,0 +1,28 @@
+name: Scott Naylor
+favicon: null
+layout_spectrum: 0.7552301748655736
+typography_spectrum: 0.7088448198046535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4448860245756805
+  lightness: 0.4761453247629106
+  saturation: 0.8410294170025736
+  rhythmicContrast: 0.6977362278848886
+purpose: []
